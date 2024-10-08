@@ -7,4 +7,4 @@ En primer lugar, debes pedir las medidas del rectángulo. El menú tendrá 4 opc
 3. Volver a escribir las medidas del rectángulo y pintarlo.
 4. Salir.
 
-Enlace al ejericio (aquí [https://github.com/AntonioSalces/ejercicioExamen/blob/main/rectanguloOpciones.psc]).
+Enlace al ejericio [aquí](https://github.com/AntonioSalces/ejercicioExamen/blob/main/rectanguloOpciones.psc).
